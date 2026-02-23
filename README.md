@@ -1,3 +1,2 @@
 # To-Do List
-Projeto simples de lista de tarefas usando HTML, CSS e JavaScript.
-Clique em uma tarefa para removê-la.
+Aplicação de lista de tarefas desenvolvida com JavaScript puro, utilizando manipulação do DOM e persistência de dados via localStorage.
